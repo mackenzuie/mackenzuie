@@ -1,16 +1,26 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
 
-<!--
-**mackenzuie/mackenzuie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Macline, a Cybersecurity student passionate about technology, creativity, and problem-solving.
 
-Here are some ideas to get you started:
+🌟 About Me  
+- 🎓 Studying Cybersecurity and delving into ethical hacking and network defense.
+- 🛠️ Exploring security tools, project management systems, and automation.
+- 💖 Lover of pink and everything organized.
+- 🌿 Finds peace and inspiration in the beauty of nature.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Tech Stack  
+- Languages: Python 🐍 | JavaScript 🖥️  
+- Platforms: Linux, Windows  
+- Tools: Wireshark, Metasploit
+
+🎯 Interests
+- Cybersecurity threats & defense strategies
+- Exploring the outdoors 🌳 and enjoying motor rides 🛵
+- Traveling 🌍 and learning from new experiences
+- Collaborating on open-source projects
+- Building tools that make life simpler
+
+📫 Let's Connect!  
+- 📧 Reach me at: macmjpascual@gmail.com
+
+Thanks for visiting! 😊 Feel free to explore my repositories and say hi!  
