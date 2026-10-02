@@ -1,26 +1,34 @@
-# Welcome to My GitHub! 👋
+# Hi, I'm Mackenzie 👋
 
-Hello! I'm Macline, a Cybersecurity student passionate about technology, creativity, and problem-solving.
+🎓 Cybersecurity Student @ Holy Angel University  
+🔐 Interested in Ethical Hacking, Network Security & Cybersecurity 
+🧪 Learning through CTFs, security labs, and hands-on projects
 
-🌟 About Me  
-- 🎓 Studying Cybersecurity and delving into ethical hacking and network defense.
-- 🛠️ Exploring security tools, project management systems, and automation.
-- 💖 Lover of pink and everything organized.
-- 🌿 Finds peace and inspiration in the beauty of nature.
+## 🛠️ Skills & Tools
 
-💡 Tech Stack  
-- Languages: Python 🐍 | JavaScript 🖥️  
-- Platforms: Linux, Windows  
-- Tools: Wireshark, Metasploit
+Security: Ethical Hacking, OSINT, Network Reconnaissance, Risk Assessment  
+Networking: TCP/IP, DNS, SMB, FTP, Firewalls, Network Security  
+Tools: Kali Linux, Nmap, Wireshark, Metasploit, Gobuster, Netcat, pfSense, FortiGate  
+Development: Python, JavaScript, HTML/CSS, PHP, SQL  
+Cloud & Systems: Linux, Windows, AWS, VirtualBox
 
-🎯 Interests
-- Cybersecurity threats & defense strategies
-- Exploring the outdoors 🌳 and enjoying motor rides 🛵
-- Traveling 🌍 and learning from new experiences
-- Collaborating on open-source projects
-- Building tools that make life simpler
+## 📚 Certifications & Training
 
-📫 Let's Connect!  
-- 📧 Reach me at: macmjpascual@gmail.com
+Cisco Networking Academy • Red Hat • AWS Academy • EC-Council • CompTIA • TryHackMe • freeCodeCamp
 
-Thanks for visiting! 😊 Feel free to explore my repositories and say hi!  
+## 🚀 Currently Learning
+
+- Penetration Testing & Vulnerability Assessment
+- Network & Defensive Security
+- Cloud Security
+- CTF & Security Research
+
+## 🌱 Interests
+
+Cybersecurity • Technology • Open Source • Automation • Travel • Motor Rides
+
+## 📫 Connect
+
+📧 mjtpascual@gmail.com  
+
+> Learn. Build. Secure. 🔐
